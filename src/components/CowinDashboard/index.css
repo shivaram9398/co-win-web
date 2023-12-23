@@ -1,0 +1,30 @@
+.main-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 30px;
+  background-color: #161625;
+  background-size: cover;
+}
+
+.image {
+  height: 25px;
+}
+
+.top {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.heading {
+  color: #2cc6c6;
+  font-size: 25px;
+  font-family: roboto;
+  margin-left: 5px;
+}
+
+.c {
+  color: white;
+  font-family: Roboto;
+}
